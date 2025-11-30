@@ -1,0 +1,42 @@
+[
+  {
+    "id": "order-3c07f9d6",
+    "items": [
+      {
+        "product_id": "hoodie-002",
+        "name": "Black Zip Hoodie",
+        "unit_price": 1299,
+        "quantity": 2,
+        "line_total": 2598,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-001",
+        "name": "Peter England Tee (Cotton)",
+        "unit_price": 799,
+        "quantity": 2,
+        "line_total": 1598,
+        "attrs": {}
+      },
+      {
+        "product_id": "phone-003",
+        "name": "Samsung M-Series",
+        "unit_price": 25000,
+        "quantity": 1,
+        "line_total": 25000,
+        "attrs": {}
+      },
+      {
+        "product_id": "mug-001",
+        "name": "Borosil Chai Mug",
+        "unit_price": 299,
+        "quantity": 2,
+        "line_total": 598,
+        "attrs": {}
+      }
+    ],
+    "total": 29794,
+    "currency": "INR",
+    "created_at": "2025-11-30T04:34:19.979170Z"
+  }
+]
